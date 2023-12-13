@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/proyecto-empresas-de-software/static/css/main.3363208c.css",
-    "main.js": "/proyecto-empresas-de-software/static/js/main.89894e9a.js",
+    "main.css": "/proyecto-empresas-de-software/static/css/main.dc5f78a2.css",
+    "main.js": "/proyecto-empresas-de-software/static/js/main.2dc24ff0.js",
     "static/js/787.e4813cf6.chunk.js": "/proyecto-empresas-de-software/static/js/787.e4813cf6.chunk.js",
-    "static/media/logo.svg": "/proyecto-empresas-de-software/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/yo.jpg": "/proyecto-empresas-de-software/static/media/yo.a36e84a8d91dcab8ec35.jpg",
+    "static/media/img8.jpeg": "/proyecto-empresas-de-software/static/media/img8.dce48d7656dad7fdb466.jpeg",
+    "static/media/react.png": "/proyecto-empresas-de-software/static/media/react.dd6d32e080c956471f02.png",
+    "static/media/img1.jpg": "/proyecto-empresas-de-software/static/media/img1.ae21a4cc1cdf2fdea9ed.jpg",
+    "static/media/img10.jpg": "/proyecto-empresas-de-software/static/media/img10.f9fecbe98acacd69ea1e.jpg",
     "index.html": "/proyecto-empresas-de-software/index.html",
-    "main.3363208c.css.map": "/proyecto-empresas-de-software/static/css/main.3363208c.css.map",
-    "main.89894e9a.js.map": "/proyecto-empresas-de-software/static/js/main.89894e9a.js.map",
+    "main.dc5f78a2.css.map": "/proyecto-empresas-de-software/static/css/main.dc5f78a2.css.map",
+    "main.2dc24ff0.js.map": "/proyecto-empresas-de-software/static/js/main.2dc24ff0.js.map",
     "787.e4813cf6.chunk.js.map": "/proyecto-empresas-de-software/static/js/787.e4813cf6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3363208c.css",
-    "static/js/main.89894e9a.js"
+    "static/css/main.dc5f78a2.css",
+    "static/js/main.2dc24ff0.js"
   ]
 }
